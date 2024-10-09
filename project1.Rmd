@@ -1,0 +1,44 @@
+---
+title: "Braford Bog Photo Gallery"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+**Here are some photos I've taken of the many plants, fungi, animals, and other organisms that call the Bradford Bog home!**
+
+![A view of the forest, including Greater Whipwort Moss (*Bazzania trilobata*) and mature Atlantic White Cedar (*Chamaecyparis thyoides*) trees](/Users/reececiampitti/Desktop/BIOL 806/Labs/ReeceCiampittiWebsite/Image/IMG_0139.jpg)
+
+
+![Purple Pitcher Plant (*Sarracenia purpurea*)](/Users/reececiampitti/Desktop/BIOL 806/Labs/ReeceCiampittiWebsite/Image/S.purpurea.jpg)
+
+
+![Canada Yew (*Taxus canadensis*)](/Users/reececiampitti/Desktop/BIOL 806/Labs/ReeceCiampittiWebsite/Image/T.canadensis.jpg)
+
+
+![Stairstep Moss (*Hylocomium splendens*)](/Users/reececiampitti/Desktop/BIOL 806/Labs/ReeceCiampittiWebsite/Image/H.splendens.jpg)
+
+
+![Hickory Tussock Moth Caterpillar (*Lophocampa caryae*)](/Users/reececiampitti/Desktop/BIOL 806/Labs/ReeceCiampittiWebsite/Image/Hickory_Tussock_Moth.jpg)
+
+
+![Green Frog (*Lithobates clamitans melanota*)](/Users/reececiampitti/Desktop/BIOL 806/Labs/ReeceCiampittiWebsite/Image/froggy.jpg)
+
+
+![Spring Peeper (*Pseudacris crucifer crucifer*)](/Users/reececiampitti/Desktop/BIOL 806/Labs/ReeceCiampittiWebsite/Image/Spring Peeper.jpg)
+
+
+![What is likely Dog Vomit Slime Mold (*Fuligo septica*) spreading over Threeleaf Goldthread (*Coptis trifolia*) ](/Users/reececiampitti/Desktop/BIOL 806/Labs/ReeceCiampittiWebsite/Image/Slimemold.jpg)
+
+
+![Probably Orange Mycena (*Mycena leaiana*)](/Users/reececiampitti/Desktop/BIOL 806/Labs/ReeceCiampittiWebsite/Image/Orange_Mycena.jpg)
+
+
+![Golden Spindles fungus (*Clavulinopsis fusiformis*)](/Users/reececiampitti/Desktop/BIOL 806/Labs/ReeceCiampittiWebsite/Image/Golden Spindles.jpg)
+
+
+![A Black Earth Tongue fungus, possibly the species *Trichoglossum hirsutum*](/Users/reececiampitti/Desktop/BIOL 806/Labs/ReeceCiampittiWebsite/Image/Earthtongue.jpg)
+
+
+![Orange Witch's Butter jelly fungus (*Dacrymyces chrysospermus*)](/Users/reececiampitti/Desktop/BIOL 806/Labs/ReeceCiampittiWebsite/Image/Orange_witchsbutter.jpg)

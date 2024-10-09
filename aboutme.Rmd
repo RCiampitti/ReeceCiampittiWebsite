@@ -1,0 +1,12 @@
+---
+title: "About Me"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Hi! I'm Reece and I am currently a Master's student in Integrative Biology at UNH.  I am studying the factors affecting Atlantic white cedar (*Chamaecyparis thyoides*) in a freshwater bog in Bradford, NH.
+
+![Measuring AWC seedling height](/Users/reececiampitti/Desktop/BIOL 806/Labs/ReeceCiampittiWebsite/Image/Seedling_height.jpeg)

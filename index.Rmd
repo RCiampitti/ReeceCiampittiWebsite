@@ -1,0 +1,12 @@
+---
+title: "Welcome!"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+![](/Users/reececiampitti/Desktop/BIOL 806/Labs/ReeceCiampittiWebsite/Image/Boardwalk.jpg)
+
+
+
+![](/Users/reececiampitti/Desktop/BIOL 806/Labs/ReeceCiampittiWebsite/Image/Bog_Sign.jpg)
